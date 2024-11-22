@@ -12,9 +12,7 @@ import tomllib
 from langchain_groq import ChatGroq
 import pandas as pd
 import datetime
-from streamlit_gsheets import GSheetsConnection
-from pyairtable import Table
-from streamlit_gsheets import GSheetsConnection
+
 
 
 # create title for the streamlit app
