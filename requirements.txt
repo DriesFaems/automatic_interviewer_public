@@ -1,14 +1,12 @@
-crewai==0.28.8
+crewai>=0.28.8
 crewai-tools
 langchain_openai
 langchain
 langchain_community
 requests
 streamlit
-pysqlite3-binary
 faiss-cpu
-groq
+groq>=0.31.0
 langchain-groq
 openpyxl
-setuptools
-
+pandas
